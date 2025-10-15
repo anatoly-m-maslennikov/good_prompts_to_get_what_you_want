@@ -1,12 +1,21 @@
+# README
+
+1. input variables
+2. put the prompt in Perplexity (deep think / reseach mode)
+3. add your HeadHunter CV in PDF
+4. press the button
+
+# THE PROMPT
+
 Transform this Russian HeadHunter (hh.ru) resume into a professional one-page resume following this specific format and style:
 
-# VARIABLES
+## VARIABLES
 
 JOB POSITION: Lead
 
 RESULT_LANGUAGE: Russian
 
-# RESUME STRUCTURE:
+## RESUME STRUCTURE:
 
 1. Header 1: $JOB POSITION
 2. Header 2: FIRST NAME LAST NAME (in capital letters)
@@ -15,7 +24,7 @@ RESULT_LANGUAGE: Russian
 5. KEY WORK EXPERIENCE: Job positions in reverse chronological order
 6. ADDITIONAL INFORMATION: Languages, technical stack, interests
 
-# WORK EXPERIENCE FORMATTING:
+## WORK EXPERIENCE FORMATTING:
 
 - Job Title, Company Name
 - Dates in "Mon YYYY - Mon YYYY" format (right-aligned)
@@ -30,11 +39,11 @@ RESULT_LANGUAGE: Russian
 - Each bullet point should show results and impact, not just responsibilities
 - Avoid generic phrases, focus on achievements
 
-# SIZE OF THE FINAL TEXT
+## SIZE OF THE FINAL TEXT
 
 - KEEP THE FINAL RESULT SHORT: Total characters (including spaces): under 2500
 
-# WHAT TO REMOVE FROM HH.RU FORMAT:
+## WHAT TO REMOVE FROM HH.RU FORMAT:
 
 - Personal details (age, birth date, marital status, photo)
 - Salary expectations
@@ -43,7 +52,7 @@ RESULT_LANGUAGE: Russian
 - Overly detailed descriptions of routine tasks
 - Russian-specific job market terminology
 
-# WHAT TO ADAPT:
+## WHAT TO ADAPT:
 
 - Convert desired position into summary section
 - Shorten lengthy project descriptions to key results
@@ -52,11 +61,11 @@ RESULT_LANGUAGE: Russian
 - Structure technical skills by relevance
 - Translate everything to professional English
 
-# RESUME TONE:
+## RESUME TONE:
 
 Professional, confident, specific. Every sentence should add value and demonstrate candidate expertise.
 
-# KEY FORMATTING ELEMENTS TO FOLLOW:
+## KEY FORMATTING ELEMENTS TO FOLLOW:
 
 - Use bullet points (- ) for achievements
 - Bold company names and job titles
@@ -67,7 +76,8 @@ Professional, confident, specific. Every sentence should add value and demonstra
 
 Transform the attached Russian resume while preserving all key professional information but making it more structured, impactful, and aligned with international professional resume standards.
 
-# What I need to get
+## WHAT I WANT TO GET AS A RESULT
 
-Give me full text in mardown to just paste into PDF builder.
+Give me full text in mardown (code block) to just paste into PDF builder.
+
 Make it in $RESULT_LANGUAGE language.
