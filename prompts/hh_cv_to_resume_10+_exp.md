@@ -6,16 +6,16 @@ JOB POSITION: Lead
 
 RESULT_LANGUAGE: Russian
 
-# **RESUME STRUCTURE:**
+# RESUME STRUCTURE:
 
-1. **Header 1**: $JOB POSITION
-2. **Header 2:** FIRST NAME LAST NAME (in capital letters)
-3. **Contact Line:** City, Country - Phone - Email - Additional contacts (all in one line)
-4. **SUMMARY:** 2-3 first-person sentences describing experience, expertise, and work approach
-5. **KEY WORK EXPERIENCE:** Job positions in reverse chronological order
-6. **ADDITIONAL INFORMATION:** Languages, technical stack, interests
+1. Header 1: $JOB POSITION
+2. Header 2: FIRST NAME LAST NAME (in capital letters)
+3. Contact Line: City, Country - Phone - Email - Additional contacts (all in one line)
+4. SUMMARY: 2-3 first-person sentences describing experience, expertise, and work approach
+5. KEY WORK EXPERIENCE: Job positions in reverse chronological order
+6. ADDITIONAL INFORMATION: Languages, technical stack, interests
 
-# **WORK EXPERIENCE FORMATTING:**
+# WORK EXPERIENCE FORMATTING:
 
 - Job Title, Company Name
 - Dates in "Mon YYYY - Mon YYYY" format (right-aligned)
@@ -23,7 +23,7 @@ RESULT_LANGUAGE: Russian
 - 3-6 bullet points with specific achievements and results
 - keep only experience from the last 2-3 jobs, or 3-5 last years.
 - add some relevant experience only if it has some relevant points to the new job title in the header
-  **WRITING STYLE:**
+  WRITING STYLE:
 
 - Use action verbs: "Developed", "Optimized", "Implemented", "Led", "Created", "Built"
 - Include specific metrics and numbers (percentage improvements, project counts, team sizes)
@@ -34,7 +34,7 @@ RESULT_LANGUAGE: Russian
 
 - KEEP THE FINAL RESULT SHORT: Total characters (including spaces): under 2500
 
-# **WHAT TO REMOVE FROM HH.RU FORMAT:**
+# WHAT TO REMOVE FROM HH.RU FORMAT:
 
 - Personal details (age, birth date, marital status, photo)
 - Salary expectations
@@ -43,7 +43,7 @@ RESULT_LANGUAGE: Russian
 - Overly detailed descriptions of routine tasks
 - Russian-specific job market terminology
 
-# **WHAT TO ADAPT:**
+# WHAT TO ADAPT:
 
 - Convert desired position into summary section
 - Shorten lengthy project descriptions to key results
@@ -52,11 +52,11 @@ RESULT_LANGUAGE: Russian
 - Structure technical skills by relevance
 - Translate everything to professional English
 
-# **RESUME TONE:**
+# RESUME TONE:
 
 Professional, confident, specific. Every sentence should add value and demonstrate candidate expertise.
 
-# **KEY FORMATTING ELEMENTS TO FOLLOW:**
+# KEY FORMATTING ELEMENTS TO FOLLOW:
 
 - Use bullet points (- ) for achievements
 - Bold company names and job titles
