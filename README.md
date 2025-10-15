@@ -1,5 +1,6 @@
-# good_prompts_to_get_what_you_want
+# About
+Good prompts, I use Perplexity (reseach/deep think mode)
 
-## License
+# License
 This project is licensed under the Creative Commons Attribution–NonCommercial 4.0 International License.
 See the [LICENSE](./LICENSE.txt) file for details.
