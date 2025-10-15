@@ -1,8 +1,13 @@
 Transform this Russian HeadHunter (hh.ru) resume into a professional one-page resume following this specific format and style:
 
+# VARIABLES
+
+JOB POSITION: Lead
+RESULT_LANGUAGE: Russian
+
 **RESUME STRUCTURE:**
 
-1. **Header 1**: JOB POSITION
+1. **Header 1**: $JOB POSITION
 2. **Header 2:** FIRST NAME LAST NAME (in capital letters)
 3. **Contact Line:** City, Country - Phone - Email - Additional contacts (all in one line)
 4. **SUMMARY:** 2-3 first-person sentences describing experience, expertise, and work approach
@@ -15,17 +20,18 @@ Transform this Russian HeadHunter (hh.ru) resume into a professional one-page re
 - Dates in "Mon YYYY - Mon YYYY" format (right-aligned)
 - Brief industry/business type description
 - 3-6 bullet points with specific achievements and results
-
-**WRITING STYLE:**
+- keep only experience from the last 2-3 jobs, or 3-5 last years.
+- add some relevant experience only if it has some relevant points to the new job title in the header
+  **WRITING STYLE:**
 
 - Use action verbs: "Developed", "Optimized", "Implemented", "Led", "Created", "Built"
 - Include specific metrics and numbers (percentage improvements, project counts, team sizes)
 - Each bullet point should show results and impact, not just responsibilities
 - Avoid generic phrases, focus on achievements
-- Maximum 1 page length
-  - Total characters (including spaces): under 2500
-  - Characters (excluding spaces): under 2200
-  - Total words: under 400
+
+SIZE OF THE FINAL TEXT
+
+- KEEP THE FINAL RESULT SHORT: Total characters (including spaces): under 2500
 
 **WHAT TO REMOVE FROM HH.RU FORMAT:**
 
@@ -60,3 +66,4 @@ Professional, confident, specific. Every sentence should add value and demonstra
 Transform the attached Russian resume while preserving all key professional information but making it more structured, impactful, and aligned with international professional resume standards.
 
 Give me full text in mardown to just paste into PDF builder.
+Make it in $RESULT_LANGUAGE language.
