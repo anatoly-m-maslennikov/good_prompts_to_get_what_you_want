@@ -19,13 +19,13 @@ Transform this Russian HeadHunter (hh.ru) resume into a professional one-page re
 
 ## VARIABLES
 
-JOB POSITION: Lead
+SEEKING_JOB_POSITION: Lead
 
 RESULT_LANGUAGE: Russian
 
 ## RESUME STRUCTURE:
 
-1. Header 1: $JOB POSITION
+1. Header 1: $SEEKING_JOB_POSITION
 2. Header 2: FIRST NAME LAST NAME (in capital letters)
 3. Contact Line: City, Country - Phone - Email - Additional contacts (all in one line)
 4. SUMMARY: 2-3 first-person sentences describing experience, expertise, and work approach
@@ -40,7 +40,8 @@ RESULT_LANGUAGE: Russian
 - 3-6 bullet points with specific achievements and results
 - keep only experience from the last 2-3 jobs, or 3-5 last years.
 - add some relevant experience only if it has some relevant points to the new job title in the header
-  WRITING STYLE:
+
+## WRITING STYLE:
 
 - Use action verbs: "Developed", "Optimized", "Implemented", "Led", "Created", "Built"
 - Include specific metrics and numbers (percentage improvements, project counts, team sizes)
@@ -62,6 +63,7 @@ RESULT_LANGUAGE: Russian
 
 ## WHAT TO ADAPT:
 
+- Change Job Titles according to $SEEKING_JOB_POSITION, responsibilities, achievements if it needed, use international (US) position names
 - Convert desired position into summary section
 - Shorten lengthy project descriptions to key results
 - Combine similar responsibilities into powerful achievement statements
