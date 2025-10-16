@@ -1,5 +1,11 @@
 <!--
-# How-to
+# README
+
+## REQUIREMENTS
+
+1. Perplexity Pro with Deep Think or an analogue
+
+## HOW TO USE
 
 1. Download the audio from Telegram (web or desktop app)
 2. Put the prompt and the audio to an input widow

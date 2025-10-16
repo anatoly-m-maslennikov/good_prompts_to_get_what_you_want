@@ -1,9 +1,15 @@
 <!--
 # README
 
-1. get the HeadHunter PDF with the CV 
+## REQUIREMENTS
+
+1. Perplexity Pro with Deep Think or an analogue
+
+## HOW TO USE
+
+1. get the HeadHunter PDF with the CV
 2. input variables to the prompt
-4. put the prompt with the PDF file to input window (you need Perplexity Deep Think, ChatGPT Reseach mode, etc)
+4. put the prompt with the PDF file to input window
 6. push the button
 -->
 
