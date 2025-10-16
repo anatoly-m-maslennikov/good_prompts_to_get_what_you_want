@@ -1,9 +1,11 @@
+<!--
 # README
 
-1. input variables
-2. put the prompt in Perplexity (deep think / reseach mode)
-3. add your HeadHunter CV in PDF
-4. press the button
+1. get the HeadHunter PDF with the CV 
+2. input variables to the prompt
+4. put the prompt with the PDF file to input window (you need Perplexity Deep Think, ChatGPT Reseach mode, etc)
+6. push the button
+-->
 
 # THE PROMPT
 

@@ -1,3 +1,11 @@
+<!--
+# How-to
+
+1. Download the audio from Telegram (web or desktop app)
+2. Put the prompt and the audio to an input widow
+3. Push the button
+-->
+
 # Content
 
 Make a concise, well-structured summary with key points of the audio.
