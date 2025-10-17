@@ -1,4 +1,3 @@
-<!--
 # README
 
 ## REQUIREMENTS
@@ -9,9 +8,8 @@
 
 1. get the HeadHunter PDF with the CV
 2. input variables to the prompt
-4. put the prompt with the PDF file to input window
-6. push the button
--->
+3. put the prompt with the PDF file to input window
+4. push the button
 
 # THE PROMPT
 
