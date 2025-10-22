@@ -70,19 +70,11 @@
 - Each paragraph should be no longer than 450 characters
 - Use bold headers to mark main sections (e.g., Situation, Problem Statement)
 
-## Title Variants
-
-- Provide 5 title variants first
-
 ## Output Format
 
 - Format it as markdown in code block
-- Follow with structured content using bold section headers
+-
+- Follow with structured content using headers 2 for section headers
 - Maintain paragraph breaks and em dashes for flow
-- Output structure:
-  - Title variants headline
-  - Title variants, each between == markers: ==
-  - Text headline
-  - Text
 
 # End of the prompt
