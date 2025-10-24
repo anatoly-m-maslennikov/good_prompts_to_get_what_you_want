@@ -2,7 +2,9 @@
 
 ## To do
 
-- Based on the article (above) generate 10 variations of titles and subtitles for article (Substack, Telegram channel)
+- Get the main hook (from intro) and main thought or call to action (from Conclution) from the article
+- Based on the article generate 10 variations of titles and subtitles for article
+- References: The New York Times, Bloomberg, POLITICO, NPR
 
 ## Title Content
 

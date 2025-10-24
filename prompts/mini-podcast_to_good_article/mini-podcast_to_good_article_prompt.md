@@ -22,7 +22,6 @@
 
 - Each point represents one meaningful thought or moment.
 - Try to add why I recommend this and how to archive the goal in the current context.
-- Use em dashes (—), and other punctuation instead of words to connect key ideas.
 - Merge points about the same thing, do not repeat the same statement.
 
 ## Structure Overview
