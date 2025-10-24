@@ -1,9 +1,8 @@
 # Prompt: Generate 10 Title and Subtitle Options for Substack Article
 
-## Context
+## To do
 
-- Based on the attached audio transcript about work initiatives, zones of control, and zones of responsibility
-- The content discusses why personal initiatives at work often go unrecognized and how to align them with company goals to bring value and recognition
+- Based on the article (above)
 
 ## Target Output
 
@@ -12,9 +11,9 @@ Generate 10 variations of titles and subtitles for a Substack article
 ## Title Requirements
 
 - Focus on making initiative-driven work valuable for both the company and the individual
-- Can be framed as questions ("Делаете что-то полезное, но никто не замечает?")
-- Can address benefits directly ("Что сделать чтобы инициативная работа принесла плоды")
-- Can identify pain points ("Почему хорошая работа теряется по дороге")
+- Try to frame as questions ("Делаете что-то полезное, но никто не замечает?")
+- Try to frame with benefits directly ("Что сделать чтобы инициативная работа принесла плоды")
+- Try to pin point pain points ("Почему хорошая работа теряется по дороге")
 - Use gentle, reflective language — suggestions and shared insights, not commands
 - Tone should be conversational, like speaking with close colleagues
 - Can include personal perspective or empathetic questioning
