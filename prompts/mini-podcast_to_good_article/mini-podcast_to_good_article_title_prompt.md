@@ -1,4 +1,4 @@
-# Prompt: Generate 10 Title and Subtitle Options for Substack Article
+# THE PROMPT
 
 ## To do
 
@@ -62,3 +62,7 @@ Generate 10 variations of titles and subtitles for a Substack article
 - Ensure diversity in phrasing while maintaining consistent tone and message
 - Vary between question format, benefit statements, and problem identification in titles
 - Vary between "you-focused" and "action-focused" subtitle structures
+
+# THE END OF PROMPT
+
+# THE ARTICLE
