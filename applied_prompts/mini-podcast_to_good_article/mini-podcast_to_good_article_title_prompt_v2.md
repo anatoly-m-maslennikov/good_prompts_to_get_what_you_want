@@ -77,6 +77,10 @@ Prefer framings that make **initiative-driven work** valuable for **both the com
 - [ ] Diversity targets met; Russian reads naturally; tone is coaching-like.
 - [ ] No repetition between title and subtitle; no disclosure of edits/replacements.
 
+## Thinking
+
+- Meta-thinking (your reflection after): in English
+
 ## Output Format (print only this)
 
 Return **exactly 10** numbered options. For each, use this structure:

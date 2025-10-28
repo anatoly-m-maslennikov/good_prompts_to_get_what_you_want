@@ -150,6 +150,10 @@ Transform spoken audio transcripts into structured first-person articles in Russ
 - [ ] Conclusion synthesizes impact without merely repeating earlier points?
 - [ ] Output is formatted as a Markdown code block?
 
+## Thinking
+
+- Meta-thinking (your reflection after): in English
+
 ## Output format
 
 - Quality Checklist results
