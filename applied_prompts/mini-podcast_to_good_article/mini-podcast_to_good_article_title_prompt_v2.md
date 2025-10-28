@@ -58,7 +58,7 @@ Prefer framings that make **initiative-driven work** valuable for **both the com
 - Present **simple, sequential steps or principles** (infinitives or gentle 2nd-person).
 - Be practical and direct without pushiness.
 - **End** with a motivational note or natural consequence.
-- Recommended length: ~120–180 characters (flexible).
+- Recommended length: 100–150 characters.
 
 ## Diversity Requirements (across all 10 options)
 
