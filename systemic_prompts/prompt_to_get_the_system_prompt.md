@@ -8,31 +8,30 @@ The SYSTEM PROMPT you produce must make the assistant deliver **first-try, high-
 
 ## INPUTS TO FILL (by the user)
 
-GOAL: <What result must the assistant achieve?>
-TASK_TYPE: <creative | analytical | review | code | data | strategy | coaching | product | research>
-DOMAIN: <subject area(s) and subdomains>
-AUDIENCE: <who it’s for; assumed knowledge level>
-CONTEXT: <succinct context, premises, constraints>
-SOURCES_AVAILABLE: <none | internal notes | links | PDFs | datasets | codebase>
-WEB_BROWSING: <required | optional | off>
-CITATIONS: <required | optional | off> # If on, require source-name + link or identifier
-LANGUAGE: <mirror_user | en | ru | ...> # Mirror user if unspecified
-TONE: <plain | friendly | formal | playful | assertive | executive>
-OUTPUT_FORMAT: <markdown | json | yaml | table | steps | mixed>
-STRICTNESS: <high | medium | low> # Higher = follow constraints over flair
-BREVITY: <bullet | short | medium | long> # Default: short
-CLARIFYING_Q_POLICY: <ask_if_blocked | skip_and_best_effort | ask_up_to_N(2)>
-UNCERTAINTY_POLICY: <state_confidence | note_assumptions | proceed_silently>
-SAFETY: <normal | high> # High = warn on legal/medical/financial
-PLACEHOLDER_POLICY: <forbid_placeholders | allow_placeholders>
-CODE_REQUIREMENTS: <complete_runnable | sketch_ok> # If TASK_TYPE=code
-TESTING_POLICY: <include_min_tests | none> # If TASK_TYPE=code or data
+GOAL: <What result must the assistant achieve?> # Default: from input
+TASK_TYPE: <creative | analytical | review | code | data | strategy | coaching | product | research> # Default: strategy, research
+DOMAIN: <subject area(s) and subdomains> # Default: from input
+AUDIENCE: <who it’s for; assumed knowledge level> # Default: Me
+CONTEXT: <succinct context, premises, constraints> # Default: From input; if you don't get enough context, ask questions
+SOURCES_AVAILABLE: <none | internal notes | links | PDFs | datasets | codebase> # Default: From input, all what you can get
+WEB_BROWSING: <required | optional | off> # Default: required
+CITATIONS: <required | optional | off> # If on, require source-name + link or identifier # Default: required
+LANGUAGE: <mirror_user | en | ru | ...> # Default: en
+TONE: <plain | friendly | formal | playful | assertive | executive> # Default: plain
+OUTPUT_FORMAT: <markdown | json | yaml | table | steps | mixed> # Default: main output in markdown code block
+STRICTNESS: <high | medium | low> # Default: medium
+BREVITY: <bullet | short | medium | long> # Default: bullet
+CLARIFYING_Q_POLICY: <ask_if_blocked | skip_and_best_effort | ask_up_to_N(2)> # Default: ask_if_blocked
+UNCERTAINTY_POLICY: <state_confidence | note_assumptions | proceed_silently> # Default: state_confidence
+SAFETY: <normal | high> # Default: normal
+PLACEHOLDER_POLICY: <forbid_placeholders | allow_placeholders> # Default: forbid_placeholders
+CODE_REQUIREMENTS: <complete_runnable | sketch_ok> # If TASK_TYPE=code, # Default: complete_runnable
+TESTING_POLICY: <include_min_tests | none> # If TASK_TYPE = code or data
 QUALITY_BAR: <what “good” looks like; success criteria>
 NON_GOALS: <explicitly out of scope>
 DEADLINES_OR_DATES: <if any; use absolute dates>
 EXAMPLES_REFERENCE: <styles to emulate or avoid>
 PREFERRED_FRAMEWORKS: <e.g., SWOT, PESTLE, MECE, RACI, RFC, PRD, CRISP-DM>
-ADDITIONAL_CONSTRAINTS: <any other musts/forbids>
 
 ---
 
@@ -114,3 +113,7 @@ Return **only** a SYSTEM PROMPT that the user can paste into the “system” or
 - Return **only** the SYSTEM PROMPT text, starting with `# System Prompt`.
 - Make it self-contained, concise, and immediately usable.
 - Incorporate the filled INPUTS and reflect toggles (TASK_TYPE, WEB_BROWSING, etc.).
+
+# THE END
+
+#
