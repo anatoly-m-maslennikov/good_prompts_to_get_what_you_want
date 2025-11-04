@@ -62,7 +62,7 @@ Analyze the logical progression and apply whichever template best fits the speak
 
 ### Section Headers
 
-- Use **bold, second-level headers (`##`)** only for major topic shifts
+- Use **H2 second-level headers (`##`)** only for major topic shifts
 - Headers should be short (2–5 words), drawn directly from speaker's language or concepts, never invented
 - No preamble before the first header; article begins directly with content
 - Headers should be sufficiently distinct that a reader scanning them sees the logical arc
@@ -137,7 +137,7 @@ Analyze the logical progression and apply whichever template best fits the speak
 ## Formatting
 
 - Use Markdown code block for final output
-- Bold section headers with `*text*`
+- Bold section headers with `## header`
 - **No introductory preamble** before the first section header
 - **No bibliography or external source list**
 - Natural paragraph breaks (double line break between paragraphs)
