@@ -2,163 +2,174 @@
 
 ## Task
 
-Transform spoken audio transcripts into structured first-person articles in Russian that preserve the speaker's voice, experience, and logical flow while increasing clarity and readability for a professional audience.
+Transform spoken audio transcripts into structured first-person articles in Russian that preserve the speaker's authentic voice and logical progression while making insights immediately actionable and emotionally resonant for a peer audience.
 
 ## Target Audience & Purpose
 
-- Audience: Professional colleagues, peers, and people familiar with similar contexts (customer service professionals, management, product development, career challenges)
-- Purpose: Share practical insights from lived experience; provide actionable patterns without prescriptive instructions
-- Reading context: Thoughtful long-form content (similar to Substack or Medium articles), not quick social media posts
+- **Audience**: Professionals in knowledge work, support, or management contexts (customer service, product, operations); people navigating workplace challenges; peers seeking tested, non-dogmatic wisdom
+- **Purpose**: Share lived experience and practical patterns—not as prescription, but as "here's what worked for me" that readers can adapt
+- **Reading context**: Thoughtful, standalone long-form content (Medium/Substack style); reflective and practical rather than entertaining
 
 ## Voice & Tone
 
-- **First-person survivor narrative**: Write as someone who has been through hardship and emerged with tested wisdom
-- **Grounded and raw**: Use conversational, natural language that sounds like a thoughtful voice message to a close colleague, not polished corporate communication or academic writing
-- **Introspective without being confessional**: Reflect on mistakes and lessons without excessive self-flagellation or defensiveness
-- **Zero prescriptive commands**: Never use direct imperatives ("you should," "you must," "do this"). Instead, use patterns like:
-  - "If you want X, one approach is Y"
-  - "From my experience, Z tends to work"
-  - "I can recommend considering A"
-  - Conditional phrasing that respects reader autonomy
-- **Occasional colloquialisms are welcome**: Keep natural expressions that add authenticity (but avoid excessive slang)
-- **Comfortable with mild profanity where it appears naturally**: Preserve the speaker's authentic voice
-- Try to not use word "просить", use "offer", "propose" or other suitable words
+- **First-person, grounded, conversational**: Write as if sharing hard-won insights with a colleague over coffee—natural, reflective, occasionally sardonic
+- **Honest about complexity**: Acknowledge trade-offs, gray areas, and the fact that simple "do this" rules rarely work
+- **Active, concrete language**: Use verbs and tangible examples; avoid abstract business-speak or soft motivational tone
+- **Respectful of reader autonomy**: Frame insights as conditional ("if you're in this situation," "one approach is") rather than prescriptive commands
+- **Spare use of technical terms**: Include domain-specific vocabulary naturally when it matters; define sparingly only when the speaker did
+- **Avoid hedging and filler**: Strip phrases like "maybe," "it seems," "perhaps," "просто," "очевидно," or "всего-то" that weaken claims
+- **Preserve humor and mild irreverence where authentic**: Allow the speaker's natural tone—including light profanity or skepticism—to come through
 
 ## Structural Principles
 
-### Length-Based Structure Selection
+### Length-Based Selection
 
 **For 3-5 minute audio:**
 
-- Create a simple narrative arc with natural paragraph flow
-- Once section, no section headers
+- Simple narrative arc; minimal section headers or none
+- One continuous flow broken into natural thought units
 
 **For 6+ minute audio:**
 
-- Analyze the content's logical progression
-- Apply one of these templates based on best fit:
+Analyze the logical progression and apply whichever template best fits the speaker's thinking:
 
 **Template A: Problem → Analysis → Solution**
 
-1. Ситуация — Set the scene (what was happening, initial context)
-2. Где проблема для меня — Identify the core issue or tension
-3. Как я это понимаю — Deepen understanding with examples, sub-patterns, retrospective insight
-4. Что я могу порекомендовать — Share tested approaches in the same logical order as the analysis
-5. Заключение — Synthesize impact, reflect on what was gained or lost
+1. **Context/Situation** — What was happening; the scene
+2. **Core Issue** — The friction point or misconception the speaker identified
+3. **Deeper Understanding** — Examples, sub-patterns, why it matters; the "aha" moment
+4. **Practical Approaches** — Concrete methods or mindsets that address the issue
+5. **Synthesis** — What changed because of this; what it means going forward
 
-**Template B: Current State → Solution → Applications**
+**Template B: Misconception → Reality → Application**
 
-1. Current State — Describe the default or common approach
-2. The Solution — Present the alternative method
-3. Applications — Show concrete scenarios where it solves problems
-4. Conclusion — Capture broader implications
+1. **The Common Assumption** — What people usually think
+2. **The Actual Pattern** — What the speaker discovered or observed
+3. **Where It Shows Up** — Specific scenarios, types of people, contexts
+4. **Implication** — Why this matters for how you work or think
 
-**Template C: Custom Narrative**
+**Template C: Layers of Complexity**
 
-- When neither template fits, follow the audio's natural thought progression
-- Always maintain clear logical transitions between sections
+1. **Entry Level** — The surface-level version of the idea
+2. **Next Layer** — A more nuanced or demanding version
+3. **Advanced Version** — The subtlety that separates effectiveness from mediocrity
+4. **Closing Thought** — What ties it together
+
+**Template D: Custom Narrative**
+
+- When none of the above fit, follow the audio's natural logical sequence
+- Maintain clear transitions between thought clusters
 
 ### Section Headers
 
-- Use **bold, second-level headers (##)** to mark major sections
-- Headers should be short (2-5 words), descriptive, and drawn from the content itself
-- No introductory preamble before the first header
-- No separate concluding summary that repeats earlier points
+- Use **bold, second-level headers (`##`)** only for major topic shifts
+- Headers should be short (2–5 words), drawn directly from speaker's language or concepts, never invented
+- No preamble before the first header; article begins directly with content
+- Headers should be sufficiently distinct that a reader scanning them sees the logical arc
 
 ### Paragraph Construction
 
-- **Maximum 450 characters per paragraph** (Russian characters, including spaces)
-- Each paragraph = one meaningful thought or moment
-- Aim for 2-5 sentences per paragraph (occasionally 1 sentence is acceptable for emphasis)
-- Merge related points instead of repeating the same idea in multiple paragraphs
-- Use natural transitions between paragraphs (implicit through topic flow, not explicit "Furthermore..." connectors)
+- **Maximum 450 characters per paragraph** (including spaces)
+- Each paragraph expresses one complete thought; merge related points rather than split them
+- **Aim for 2–5 sentences per paragraph**; occasionally 1 sentence is acceptable for emphasis or stark contrast
+- Vary sentence length: intersperse short (5–8 word) sentences with medium (12–18 word) ones
+- Use natural transitions through topic flow, not explicit connectors; let ideas follow logically from one another
 
 ## Content Transformation Rules
 
 ### Compression & Density
 
-- **Target ratio**: Approximately one written sentence per one minute of spoken audio
-- Strip conversational fillers, false starts, and redundancies
-- Preserve the logical chain completely—never skip steps in reasoning
-- Consolidate repeated ideas into single, stronger statements
+- **Target**: Approximately 1 written sentence per minute of audio (rough guideline)
+- Strip conversational fillers ("well," "um," "you know," "like," false starts, redundant elaborations)
+- Preserve the complete logical chain—**never skip a causal step**
+- Consolidate repeated ideas into single, cleaner statements
+- Keep the voice natural; don't oversharpen into stilted brevity
 
-### Specificity & Evidence
+### Specificity & Concreteness
 
-- **Keep all concrete numbers, metrics, timeframes, and examples** from the source
-- Never invent details that aren't in the audio
-- When the speaker provides technical context (system names, team sizes, revenue figures), include them
-- Use specific examples to ground abstract points
+- **Retain all concrete details**: numbers, examples, scenarios, team roles, timeframes, brand names, technical tools
+- Never invent or generalize away specific instances the speaker mentioned
+- When the speaker gives an example (even a passing one), preserve its specificity—it grounds abstract claims
+- If the speaker uses analogies or metaphors, keep them; they carry meaning
 
-### Logical Flow Adjustment
+### Logical Flow & Reordering
 
-- Follow the speaker's original logical sequence **unless** reordering significantly improves clarity
-- When reordering, ensure causal relationships remain intact
-- Add brief contextual phrases only when absolutely necessary to bridge speaker's assumed knowledge gaps
+- Follow the speaker's original sequence unless reordering significantly improves clarity _and_ maintains causal relationships
+- If you do reorder, ensure readers still understand _why_ one idea leads to the next
+- Add minimal bridging language only when the speaker's logic jumps and context is genuinely lost
+- Trust the speaker's progression; they usually order thoughts intentionally
 
-### Narrative Devices
+### Narrative Devices (Use Sparingly, Authentically)
 
-- Contrast "before/after" states to show impact
-- Use occasional rhetorical questions (sparingly) only when the speaker used them
-- Include unexpected insights or "reveals" where the speaker had them (e.g., "И это в 2019 году!")
-- Allow moments of self-deprecation or irony when present in source
+- Include contrast ("before/after," "the easy way vs. the hard way") where the speaker used it
+- Use a rhetorical question only if the speaker asked one
+- Preserve unexpected insights or surprises the speaker expressed (e.g., "и это в 2019 году!" → reveal something notable when it emerges)
+- Keep moments of self-awareness, irony, or hard truth that show the speaker's honesty
 
 ## Style Guidelines
 
-### Sentence Structure
+### Sentence Craft
 
-- Mix sentence lengths: some short and punchy (5-8 words), others more complex (15-25 words)
-- Prefer active voice; use passive only when the speaker did
-- Avoid academic or bureaucratic phrasing
-- Use em dashes (—) for asides or elaboration (as natural in Russian writing)
-
-### Vocabulary Level
-
-- Professional but accessible: assume reader knows domain basics but not deep jargon
-- Define technical terms only if the speaker did
-- Preserve domain-specific terminology (ITSM, CRM, product owner, etc.)
-- Use everyday Russian where possible; avoid unnecessarily formal register
+- **Mix sentence structure**: Some short (5–8 words), others longer (18–25 words), occasional complex ones with em dashes or subordinate clauses
+- **Prefer active voice**; use passive only when the speaker did or when it serves emphasis
+- **Use em dashes (—)** for asides, elaborations, or second thoughts; it's natural in Russian
+- Avoid academic jargon, corporate clichés, or bureaucratic phrasing
+- Keep vocabulary conversational but professional; assume reader knows the domain
 
 ### What to Avoid
 
-- Listicles or bullet-point summaries (use prose paragraphs)
-- Repeating the same thought in other words
-- Marketing language or motivational clichés
-- Hedging phrases that weaken claims ("perhaps," "it seems," "possibly") unless the speaker was genuinely uncertain
-- Repetitive paragraph openings or structural patterns
-- External intro/outro that sits outside the main content
-- Repetition of semantic nouns and verbs in one paragraph
-- Words like "просто" (just), "всего-то", "понятно что", "очевидно"
+- Listicles, bullet-point lists, or summary reductions (use prose paragraphs)
+- Repetition of the same idea in different words
+- Marketing-speak, motivational clichés ("you've got this," "believe in yourself"), or hype language
+- Hedging language that weakens claims ("perhaps," "it seems," "one could argue")
+- Repetitive paragraph openings or structural patterns (don't start each paragraph the same way)
+- Filler words and weak intensifiers that appear in speech but not in writing
+- A separate introduction or conclusion grafted outside the main content; the article should feel integral
+- Long lists of synonymous sub-points; merge them into a single, sharper statement
+
+### Vocabulary Precision
+
+- Use the specific terms the speaker used (Customer Support, Developer, Project Manager, etc.)
+- Define technical terms only if the speaker did; assume domain familiarity
+- Prefer direct, common Russian words over formal or imported equivalents where available
+- Avoid diminutives, excessive diminishment ("всего-то"), or patronizing tone
 
 ## Formatting
 
 - Use Markdown code block for final output
-- Bold section headers with `##`
-- No external introduction before the first section header
-- No bibliography or source list
-- Natural paragraph breaks (double line breaks)
+- Bold section headers with `*text*`
+- **No introductory preamble** before the first section header
+- **No bibliography or external source list**
+- Natural paragraph breaks (double line break between paragraphs)
+- No foototes, author bio, or sign-off outside the article body
 
 ## Quality Checklist (Self-Verify Before Finalizing)
 
-- [ ] Every section header maps to actual content from the audio?
+- [ ] Every section header corresponds to actual content from the audio (not invented)?
 - [ ] No paragraph exceeds 450 characters?
-- [ ] Logical chain is complete with no missing steps?
-- [ ] All specific numbers, dates, and examples are preserved accurately?
-- [ ] Zero prescriptive commands ("you must/should") present?
-- [ ] Voice sounds like a thoughtful colleague sharing tested experience, not a consultant or teacher?
-- [ ] Structure matches audio length and content type?
-- [ ] No invented details or synthetic examples?
-- [ ] Conclusion synthesizes impact without merely repeating earlier points?
-- [ ] Output is formatted as a Markdown code block?
+- [ ] All specific names, numbers, dates, and examples are accurate and preserved?
+- [ ] Logical chain is complete; no causal steps skipped?
+- [ ] Zero prescriptive commands ("you must," "you should") present?
+- [ ] Voice reads like a thoughtful peer sharing experience, not a consultant or instructor?
+- [ ] Sentence length varies; no repetitive patterns?
+- [ ] Active voice dominates; passive voice used only intentionally?
+- [ ] No marketing clichés, hedging language, or filler words?
+- [ ] Conclusion synthesizes or reflects on impact, not merely repeating earlier points?
+- [ ] Zero invented details or examples?
+- [ ] Output formatted as Markdown code block, ready to paste?
 
-## Thinking
+## Thinking & Meta-Reflection
 
-- Meta-thinking (your reflection after): in English
+- Reflect on clarity and authenticity after drafting; consider whether a peer would find it useful and genuine.
 
-## Output format
+## Output Format
 
-- Quality Checklist results
-- The finalized article in markdown code block (not in attached file)
+- Quality Checklist results (brief)
+- Finalized article in Markdown code block (ready to copy-paste; no attached files)
 
 ---
 
-**Source Material**: [Paste audio transcript below this line]
+**Source Material**:
+Attached file
+
+---
