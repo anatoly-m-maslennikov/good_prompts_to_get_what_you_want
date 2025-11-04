@@ -36,7 +36,7 @@ Inputs to expect at runtime for the improved prompt (make it robust to these):
 
 Output format for THIS task:
 
-1. **IMPROVED PROMPT** — a single, reusable prompt I can copy-paste to generate future articles. It must NOT mention any specific word substitutions and must NOT rely on any “from → to” examples.
+1. **IMPROVED PROMPT** — a single, reusable prompt in markdown code block I can copy-paste to generate future articles. It must NOT mention any specific word substitutions and must NOT rely on any “from → to” examples.
 2. **RATIONALE (brief)** — 3–7 bullet points explaining the generalized stylistic/structural adjustments you made (no lexical examples, no word lists).
 
 Now I will paste the materials in this exact order:
